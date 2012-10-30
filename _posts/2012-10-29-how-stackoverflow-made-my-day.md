@@ -5,7 +5,7 @@ tags : [stackoverflow, help, rails]
 ---
 {% include JB/setup %}
 
-This situation happened to while I was going back from home not while I was in stackoverflow answering questions.
+This situation happened to me while I was going back from work!
 
 ### Stackoverflow answer
 
