@@ -50,6 +50,3 @@ So I'm sure it happened with you if you contribute on similar sites or even stac
 I feel lucky to read this e-mail and it made my day. That is why I decided to make my first post on this blog about what happened.
 
 **Regards, Felipe Lopes!**
-
-Please take a look at [{{ site.categories.api.first.title }}]({{ BASE_PATH }}{{ site.categories.api.first.url }}) 
-or jump right into [Usage]({{ BASE_PATH }}{{ site.categories.usage.first.url }}) if you'd like.
