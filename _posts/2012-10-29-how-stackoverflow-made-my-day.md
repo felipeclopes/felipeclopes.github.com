@@ -43,9 +43,9 @@ When I openen the e-mail, a surprise:
 
 Well, reading this e-mail made my effort on stackoverflow worth. Since I begin answering programmers questions in stackoverflow to retribute thousands of questions I found the answer immediatly in this awesome community, this was by far the gratest reward I ever received.
 
-### It happened with you
+### It happened to you
 
-So I'm sure it happened with you if you contribute on similar sites or even stackoverflow. I'm saying that because most of the times this happens you won't receive the e-mail because people feel shy of doing this. Anyways, you can be sure that you are helping hundres to thousants of people from similar situations.
+So I'm sure it happened to you if you contribute on similar sites or even stackoverflow. I'm saying that because most of the times this happens you won't receive the e-mail because people feel shy of doing this. Anyways, you can be sure that you are helping hundres to thousants of people from similar situations.
 
 I feel lucky to read this e-mail and it made my day. That is why I decided to make my first post on this blog about what happened.
 
