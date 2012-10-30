@@ -20,7 +20,7 @@ Basically I answered with a code similar to this:
 
 {% endhighlight %}
 
-{% highlight %}
+{% highlight javascript %}
 
     //Then with JQuery you can handle like this:
     $('#fileupload').fileupload({
